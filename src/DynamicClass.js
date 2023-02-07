@@ -1,5 +1,5 @@
-import { ClassOne } from "./src/package/ClassOne.js";
-import { ClassTwo } from "./src/package/ClassTwo.js";
+import { ClassOne } from "./package/ClassOne.js";
+import { ClassTwo } from "./package/ClassTwo.js";
 
 const classes = {
   ClassOne,

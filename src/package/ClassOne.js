@@ -1,5 +1,5 @@
 export class ClassOne {
   constructor() {
-    console.log(`Hello, This is a Class One!`);
+    console.log(`Hello, i am calling from Class One!`);
   }
 }
